@@ -9,14 +9,14 @@ we are creating 2 border alert system models here in our project. Its basically 
 #######################################################
 
 ##components required:
-Arduino uno
-buzzer
-12v DC motor
-16 x 2 LCD Display 
-Gps Module
-Bread Board
-adaptor
-Jumperires for connecting the components.
+*Arduino uno,
+*buzzer,
+*12v DC motor,
+*16 x 2 LCD Display, 
+*Gps Module,
+*Bread Board,
+*adaptor,
+*Jumperires for connecting the components.
 
 ## Steps to follow.
 *so this arduino uno is a microcontroller which acts and a sandwich between the hardware and the software components.
@@ -37,3 +37,5 @@ with your Laptop[using USB AB cable] where you have installed the arduino ide so
 ############NOTE##############
 I have used different border values according to my location, so kindly change the stored border values, according to your location and execute.
 ##############################
+
+
