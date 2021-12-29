@@ -34,8 +34,11 @@ with your Laptop[using USB AB cable] where you have installed the arduino ide so
 
 *copy paste the "sea border alert system using_gps_module" code in the software and upload the code to your arduino uno board[using USB AB cable].
 
-############NOTE##############
+Note:
 I have used different border values according to my location, so kindly change the stored border values, according to your location and execute.
-##############################
+
+
+#######################################################
+
 
 
