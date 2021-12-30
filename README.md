@@ -49,5 +49,26 @@ I have used different border values according to my location, so kindly change t
 
 #######################################################
 
+model using RSSI model
+
+
+#######################################################
+## Steps to follow.
+
+* Uses and Installation
+
+* Unzip the files
+
+* Upload the code into ArduinoUno
+
+* Follow the Connection
+
+* Enable the wifi  hotspot, and Power On the System 
+
+* Open the ip address in web browser displayed in the LCD
+
+* Take the device away from the system to view the Safe zone,Moderate zone,Danger Zone.
+
+* Open the Adafruit.io website to see the location (Latitude and Longitude)
 
 
